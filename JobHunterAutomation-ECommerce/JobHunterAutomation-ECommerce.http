@@ -1,0 +1,6 @@
+@JobHunterAutomation_ECommerce_HostAddress = http://localhost:5012
+
+GET {{JobHunterAutomation_ECommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
